@@ -1,0 +1,71 @@
+#prin{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 30px;
+    color: #280;
+}
+#ptitulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 15px;
+    font-weight: bold;
+    background-color: #fff;
+}
+
+.origem{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: #280;
+    background-color: #fff;
+}
+
+.resumo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background-color: #fff;
+}
+
+table, td {
+    border: 1px solid black;
+    
+}
+table, td, tr{
+    width: 766px;
+    height: 36px; 
+}
+
+#roda{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 11px;
+    text-align: center;
+    background-color: #cfb;
+}
+
+#a1:link{
+    color: #0000ff;
+    background-color: transparent;
+  text-decoration: underline;
+}
+
+#a2:visited{
+    color: #ddc71a;
+    background-color: transparent;
+  text-decoration: underline;
+}
+
+#a3:hover{
+    color: #ff0000;
+    font-weight: bold;
+    background-color: transparent;
+  text-decoration: underline;
+}
+
+#a4:active{
+    color: #ac0b44;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+}
